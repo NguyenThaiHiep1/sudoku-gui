@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 09 13:53:59 ICT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-473d-c4b2-00000e4c4d98 
+on database directory C:\Users\Admin\OneDrive\Máy tính\sudoku gui\Game with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Loaded from file:/C:/Users/olafwrieden/Downloads/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\Admin\OneDrive\Máy tính\sudoku gui
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
